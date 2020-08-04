@@ -1,4 +1,4 @@
-# NLP-Text-Classification
+# NLP-Text-Classification (Work in progress)
 [Toxicity Classification project](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 - Step 1: State the problem and the approach to solve it.
