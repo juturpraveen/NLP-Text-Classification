@@ -17,3 +17,5 @@ Labels/Classes:
 - Insult
 - Identity Hate
 
+Problem:  
+Classify each comment with the toxicity labels - 6 toxicity labels. Each comment could belong to more than one label.
