@@ -19,3 +19,8 @@ Labels/Classes:
 
 Problem:  
 Classify each comment with the toxicity labels - 6 toxicity labels. Each comment could belong to more than one label.
+
+Metrics:  
+- Log loss
+- AUC
+- F1 score
