@@ -24,3 +24,6 @@ Metrics:
 - Log loss
 - AUC
 - F1 score
+
+Referred sources:  
+[Analytics Vidya](https://www.analyticsvidhya.com/blog/2019/04/predicting-movie-genres-nlp-multi-label-classification/)
